@@ -1,0 +1,14 @@
+/home/zahid/Documents/c-sharp-bank-app/bin/Debug/net8.0/c-sharp-bank-app
+/home/zahid/Documents/c-sharp-bank-app/bin/Debug/net8.0/c-sharp-bank-app.deps.json
+/home/zahid/Documents/c-sharp-bank-app/bin/Debug/net8.0/c-sharp-bank-app.runtimeconfig.json
+/home/zahid/Documents/c-sharp-bank-app/bin/Debug/net8.0/c-sharp-bank-app.dll
+/home/zahid/Documents/c-sharp-bank-app/bin/Debug/net8.0/c-sharp-bank-app.pdb
+/home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/c-sharp-bank-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/c-sharp-bank-app.AssemblyInfoInputs.cache
+/home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/c-sharp-bank-app.AssemblyInfo.cs
+/home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/c-sharp-bank-app.csproj.CoreCompileInputs.cache
+/home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/c-sharp-bank-app.dll
+/home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/refint/c-sharp-bank-app.dll
+/home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/c-sharp-bank-app.pdb
+/home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/c-sharp-bank-app.genruntimeconfig.cache
+/home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/ref/c-sharp-bank-app.dll

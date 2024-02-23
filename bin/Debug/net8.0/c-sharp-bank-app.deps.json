@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "c-sharp-bank-app/1.0.0": {
+        "runtime": {
+          "c-sharp-bank-app.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c-sharp-bank-app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
