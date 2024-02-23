@@ -24,6 +24,7 @@
             Console.WriteLine("1 . Balance");
             Console.WriteLine("2 . Withdraw");
             Console.WriteLine("3 . Cash In");
+            Console.WriteLine("4 . Details");
             string a;
             Console.Write("Menu Key from upper list : ");
             a = Console.ReadLine();
@@ -39,6 +40,34 @@
                 case "3":
                     Console.Write("25000");
                     break;
+                case "4":
+                    string c;
+                    Console.Clear();
+                    Console.WriteLine("1. Transiction Details");
+                    Console.WriteLine("2. User Details");
+
+                    Console.WriteLine("Enter your key details : ");
+                    c = Console.ReadLine();
+
+                    if (c == "1")
+                    {
+                        Console.Clear();
+
+                        Console.WriteLine("august 17, august 18");
+                    }
+                    else if (c == "2")
+                    {
+                        Console.Clear();
+
+                        Console.WriteLine("Username : " + userName + " Password : " + passWord);
+                    }
+                    else
+                    {
+                        Console.WriteLine("key is not valid");
+                    }
+                    ;
+                    break;
+
                 default:
                     Console.Write("Not Applicable");
                     break;
