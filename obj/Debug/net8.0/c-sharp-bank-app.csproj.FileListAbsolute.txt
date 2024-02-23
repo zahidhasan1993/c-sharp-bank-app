@@ -12,3 +12,4 @@
 /home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/c-sharp-bank-app.pdb
 /home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/c-sharp-bank-app.genruntimeconfig.cache
 /home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/ref/c-sharp-bank-app.dll
+/home/zahid/Documents/c-sharp-bank-app/obj/Debug/net8.0/c-sharp-bank-app.sourcelink.json
