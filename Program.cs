@@ -25,6 +25,7 @@
             Console.WriteLine("2 . Withdraw");
             Console.WriteLine("3 . Cash In");
             Console.WriteLine("4 . Details");
+            Console.WriteLine("5 . History");
             string a;
             Console.Write("Menu Key from upper list : ");
             a = Console.ReadLine();
@@ -43,17 +44,17 @@
                 case "4":
                     string c;
                     Console.Clear();
-                    Console.WriteLine("1. Transiction Details");
+                    Console.WriteLine("1. App Details");
                     Console.WriteLine("2. User Details");
-
                     Console.WriteLine("Enter your key details : ");
+                    Console.Write("Enter a key : ");
                     c = Console.ReadLine();
 
                     if (c == "1")
                     {
                         Console.Clear();
 
-                        Console.WriteLine("august 17, august 18");
+                        Console.WriteLine("A money management app");
                     }
                     else if (c == "2")
                     {
@@ -66,6 +67,10 @@
                         Console.WriteLine("key is not valid");
                     }
                     ;
+                    break;
+
+                case "5":
+                    History();
                     break;
 
                 default:
@@ -81,5 +86,29 @@
         Console.ReadKey();
         Console.WriteLine("Thank You!!!");
         Console.ReadKey();
+    }
+
+    static void History()
+    {
+        Console.Clear();
+        Console.WriteLine("::History Menu::");
+        Console.WriteLine("1. Transfer History");
+        Console.WriteLine("2. Deposite History");
+
+        string a = Console.ReadLine();
+
+        if (a == "1")
+        {
+            Console.WriteLine("Almost $125000 Transfred");
+            Console.ReadKey();
+        }
+        else if (a == "2")
+        {
+            Console.WriteLine("Almost $15246 deposited");
+        }
+        else
+        {
+            Console.WriteLine("Wrong Key");
+        }
     }
 }
